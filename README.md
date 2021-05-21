@@ -1,8 +1,10 @@
-# License
+# Project Name:
+E-Commerce Back-End
+
+## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   This project is licensed under the MIT license. URL Here - (https://opensource.org/licenses/MIT)
-## Project Name:
-E-Commerce Back-End
+
 
 ## Table of Contents
 - [Title](#Project-Name)
