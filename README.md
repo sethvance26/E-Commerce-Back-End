@@ -41,7 +41,9 @@ npm install
 ## Contributions
 Here our policy is, if you break it you de-bug it!
 
-###
+### Video Demonstration
+This week, we were asked to give a demonstration of our working routes. You can see this below.
+
 
 ### Questions
 If you have any questions or concerns, please e-mail me at sethvance39@gmail.com. More work can be found at my Github. Username -  sethvance26 
