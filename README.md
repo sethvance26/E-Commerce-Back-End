@@ -10,6 +10,7 @@ E-Commerce Back-End
 - [Title](#Project-Name)
 - [Description](#Description)
 - [License](#License)
+- [Video](#Video-Demonstration)
 - [Installation](#Installation)
 - [Usage](#Usage)
 - [Tests](#Tests)
@@ -30,7 +31,7 @@ This week, our task was to configure a working Express.js API to use Sequelize t
 [GitHub]-(sethvance26)
 
 ## Tests
-To run a test, use the command You may use the GET, POST, PUT, or UPDATE routes to test the functionality of this application. If you need a demonstration, please view the video below.
+You may use the GET, POST, PUT, or UPDATE routes to test the functionality of this application. If you need a demonstration, please view the video below.
 
 ## Usage
 Have fun!
@@ -43,9 +44,10 @@ npm install
 ## Contributions
 Here our policy is, if you break it you de-bug it!
 
-### Video Demonstration
+### Video-Demonstration
 This week, we were asked to give a demonstration of our working routes. You can see this below.
-
+Part 1- https://drive.google.com/file/d/17vkD71MWEdiidG0Ju6i3POmLqq3FDQ4n/view
+Part 2- https://drive.google.com/file/d/1q_QJgDzrRifS_beOuXtass9_xZ5_VXFE/view
 
 ### Questions
 If you have any questions or concerns, please e-mail me at sethvance39@gmail.com. More work can be found at my Github. Username -  sethvance26 
